@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently researching on **Reinforcement Learning**
 
-- 📫 How to reach me **(<a href="https://reza2002801.github.io/">My Website<\a>)**
+- 📫 How to reach me **(<a href="https://reza2002801.github.io/"> My Website </a> )**
 
 
 <h3 align="left">Languages and Tools:</h3>
