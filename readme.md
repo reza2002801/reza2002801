@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Reza</h1>
 
 
-- 👀 Codes, Codes, Codes :) I’m interested in coding! And SCIENCE!!! Machine Learning, Probability and Statistics, Optimization, AI, all describe my aura :)
+- 👀 I’m interested in coding! And SCIENCE!!! Machine Learning, Probability and Statistics, Optimization, AI, all describe my aura :)
 
 - 🌱 I’m currently researching on **Reinforcement Learning**
 
